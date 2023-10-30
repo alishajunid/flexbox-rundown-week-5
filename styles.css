@@ -135,3 +135,11 @@ li{
     height: 200px;
     flex: 1 1 auto;
 }
+
+.section-two{
+    background-color: orangered;
+    height: 700px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
