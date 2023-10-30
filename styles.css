@@ -143,3 +143,9 @@ li{
     align-items: center;
     justify-content: center;
 }
+
+.section-three{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
