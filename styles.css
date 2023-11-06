@@ -90,9 +90,14 @@ iframe {
 }
 
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Josefin Sans', 'filicudi-striped', Verdana, Geneva, Tahoma, sans-serif;
     font-size: 60px;
     text-align: center;
+}
+
+.lets-make-buttons
+{
+    font-family: 'filicudi-striped', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
